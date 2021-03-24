@@ -1,10 +1,15 @@
 # tesi_pedrinazzi
 
 Nova Fixed key - 11 controlli
+
 Cloud Security Dependencies - 11 controlli
+
 Guest Passwd control 1 - 1 controllo
+
 Guest Passwd control 2 - 7 controlli -----> totale 8
+
 Central directory - 9 controlli
+
 Time sync - 7 controlli
 
 
